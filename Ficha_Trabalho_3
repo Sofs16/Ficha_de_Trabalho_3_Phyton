@@ -70,6 +70,8 @@ def pesquisar_personagem():
     print("\n")
 
 while True:
+    print("Bem-vindo ao Criador de Perfil de Personagem. Selecione o número da opção do menu abaixo que deseja selecionar e siga as instruções dadas de seguida.")
+    print("\n")
     print("----- Menu -----")
     print("1. Adicionar personagem")
     print("2. Modificar personagem")
@@ -95,4 +97,3 @@ while True:
     else:
         print("Opção inválida. Tente novamente.")
         print("\n")
-        
